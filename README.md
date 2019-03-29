@@ -1,2 +1,3 @@
 # ChatClientServer
-Mon c
+
+XÂY DỰNG CHƯƠNG TRÌNH CHAT TRONG MÔI TRƯỜNG LAN
